@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','Product Categories' => 'Kategori Produk','Category Name' => 'Nama kategori','Category Description' => 'Kategori Deskripsi','Created At' => 'dibuat Pada','Updated At' => 'Updated Pada','Delete' => 'Menghapus','Your Product Categories' => 'Anda Kategori Produk','Categories' => 'kategori','Products in Category' => 'Produk di Kategori',];

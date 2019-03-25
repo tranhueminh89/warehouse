@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','View All Suppliers' => 'Lihat Semua Pemasok','Supplier Name' => 'nama pemasok','Email' => 'E-mail','Phone' => 'Telepon','Total Amount' => 'Jumlah total','Suppliers' => 'Pemasok','restocks' => 'restocks',];

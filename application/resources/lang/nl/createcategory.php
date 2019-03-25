@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','Create Category' => 'Maak Categorie','Create/Edit Category' => 'Maak / bewerken Categorie','Category Name' => 'categorie naam','Category Description' => 'categorie Omschrijving','Submit' => 'voorleggen',];

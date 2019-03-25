@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'es','Record Payment' => 'registro de Pago','Create Payment' => 'crear Pago','Invoice Number' => 'Número de factura','Payment Amount' => 'Monto del pago','Amount Due' => 'monto a pagar','Payment Method' => 'Método de pago','Payment Details' => 'Detalles del pago','Save' => 'Salvar',];

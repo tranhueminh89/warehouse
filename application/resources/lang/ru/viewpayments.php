@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'ru','View Payments' => 'Просмотреть платежи','Invoice Payments' => 'Оплата счетов-фактур','Invoices Paid' => 'Счета-фактуры Платная','Invoice Number' => 'Номер счета','Payment Method' => 'Способ оплаты','Payment Amount' => 'К оплате','Payment Details' => 'Детали оплаты','Created At' => 'Создан в','Actions' => 'действия','Customer' => 'Клиент',];

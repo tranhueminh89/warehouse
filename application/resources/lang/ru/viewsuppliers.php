@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'ru','View All Suppliers' => 'Все Поставщики','Supplier Name' => 'наименование поставщика','Email' => 'Эл. адрес','Phone' => 'Телефон','Total Amount' => 'Итого','Suppliers' => 'Поставщики','restocks' => 'Restocks',];

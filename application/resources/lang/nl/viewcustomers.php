@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','View Customers' => 'Bekijk Klanten','Customers and Their Stats' => 'Klanten en hun Stats','Company Name' => 'Bedrijfsnaam','Customer Type' => 'klant type','Quotes' => 'Citaten','Invoices' => 'facturen','Company Email' => 'bedrijf E-mail','Tel' => 'Tel','Actions' => 'acties','Payments' => 'betalingen',];

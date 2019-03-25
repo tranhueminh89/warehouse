@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'ru','Product Name' => 'наименование товара','Location' => 'Место нахождения','Category' => 'категория','Serial' => 'последовательный','Unit Cost' => 'Себестоимость единицы продукции','Total Cost' => 'Общая стоимость','Amount' => 'Количество','Reorder Amount' => 'Упорядочивание Сумма','Stock Items' => 'Stock Items','Products' => 'Продукты',];

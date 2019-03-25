@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','View Restock Logs' => 'Lihat memperlengkapi Log','Restocks' => 'restocks','Product Name' => 'nama Produk','Unit Cost' => 'Unit Cost','Item Cost' => 'Item Biaya','Amount' => 'Jumlah','Supplied By' => 'Dipasok oleh','Received on' => 'diterima pada','Docs' => 'Docs','Actions' => 'tindakan','Warehouse' => 'Gudang','Bin Location' => 'bin Lokasi',];

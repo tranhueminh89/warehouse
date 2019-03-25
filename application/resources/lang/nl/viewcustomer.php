@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','View Customer' => 'Bekijk Klant','Invoices' => 'facturen','Invoice Number' => 'Factuurnummer','Invoice Amount' => 'Factuurbedrag','View Invoice' => 'Bekijk Factuur','Quotes' => 'Citaten','Order Number' => 'Bestellingsnummer','Invoice Amount' => 'Factuurbedrag','View Invoice' => 'Bekijk Factuur',];

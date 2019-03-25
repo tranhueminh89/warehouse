@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','View Customers' => 'Lihat Pelanggan','Customers and Their Stats' => 'Pelanggan dan Statistik mereka','Company Name' => 'Nama Perusahaan','Customer Type' => 'Tipe pelanggan','Quotes' => 'Tanda kutip','Invoices' => 'faktur','Company Email' => 'perusahaan Email','Tel' => 'tel','Actions' => 'tindakan','Payments' => 'pembayaran',];

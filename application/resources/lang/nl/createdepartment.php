@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','Add A Department' => 'Voeg een Department','Department Name' => 'Afdelingsnaam','Budget Limit' => 'budget Limit','Department Email' => 'afdeling E-mail','Budget Start Date' => 'Budget Startdatum','Budget End Date' => 'Budget Einddatum','Save Department' => 'Afdeling Save',];

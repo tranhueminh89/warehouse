@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'fr','View All Suppliers' => 'Voir tous les fournisseurs','Supplier Name' => 'Nom du fournisseur','Email' => 'Email','Phone' => 'T&#233;l&#233;phone','Total Amount' => 'Montant total','Suppliers' => 'Fournisseurs','restocks' => 'réapprovisionne',];

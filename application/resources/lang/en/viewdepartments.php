@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'en','View All Departments' => 'View All Departments','Departments And Budgets' => 'Departments And Budgets','Department Name' => 'Department Name','Limit' => 'Limit','Count' => 'Count','Sum' => 'Sum','Email' => 'Email','Start Date' => 'Start Date','End Date' => 'End Date','Department Chart' => 'Department Chart','Department Info' => 'Department Info'];

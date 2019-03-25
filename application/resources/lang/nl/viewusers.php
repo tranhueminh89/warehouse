@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','Users' => 'gebruikers','Username' => 'Gebruikersnaam','Email' => 'E-mail','User Role' => 'gebruiker Role','Department' => 'afdeling','Date Created' => 'Datum gecreeërd',];

@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','Create Bin Location' => 'Maak Bin Locatie','Add A Storage Location' => 'Voeg een opslaglocatie','Warehouse' => 'Magazijn','Storage Location Name' => 'Magazijn Naam','Storage Location Description' => 'Storage Locatie Beschrijving','Barcode' => 'Barcode','Bin Max Level' => 'Bin Max Level','Bin Max Weight' => 'Bin Max Weight','Save' => 'Save',];

@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'de','Create Category' => 'Kategorie erstellen','Create/Edit Category' => 'Erstellen / Bearbeiten Kategorie','Category Name' => 'Kategoriename','Category Description' => 'Kategorie beschreibung','Submit' => 'einreichen',];

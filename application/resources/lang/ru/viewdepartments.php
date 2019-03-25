@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'ru','View All Departments' => 'Все отделы','Departments And Budgets' => 'Отделы и бюджеты','Department Name' => 'название отдела','Limit' => 'предел','Count' => 'подсчитывать','Sum' => 'сумма','Email' => 'Эл. адрес','Start Date' => 'Дата начала','End Date' => 'Дата окончания','Department Chart' => 'Отдел Chart',];

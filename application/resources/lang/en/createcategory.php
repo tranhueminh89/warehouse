@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'en','Create Category' => 'Create Category','Create/Edit Category' => 'Create/Edit Category','Category Name' => 'Category Name','Category Description' => 'Category Description','Submit' => 'Submit',];

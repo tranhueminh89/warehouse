@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'ru','Record Payment' => 'Запись оплаты','Create Payment' => 'Создать Оплата','Invoice Number' => 'Номер счета','Payment Amount' => 'К оплате','Amount Due' => 'Сумма долга','Payment Method' => 'Способ оплаты','Payment Details' => 'Детали оплаты','Save' => 'Сохранить',];

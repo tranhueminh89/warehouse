@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'es','View All Departments' => 'Ver todos los departamentos','Departments And Budgets' => 'Departamentos y presupuestos','Department Name' => 'Nombre del Departamento','Limit' => 'Límite','Count' => 'Contar','Sum' => 'Suma','Email' => 'Email','Start Date' => 'Fecha de inicio','End Date' => 'Fecha final','Department Chart' => 'Gráfico Departamento',];

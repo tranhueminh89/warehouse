@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'de','Product Name' => 'Produktname','Location' => 'Ort','Category' => 'Kategorie','Serial' => 'seriell','Unit Cost' => 'Kosten pro Einheit','Total Cost' => 'Gesamtkosten','Amount' => 'Menge','Reorder Amount' => 'Nachbestellung Betrag','Stock Items' => 'stock Items','Products' => 'Produkte',];

@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'en','Dispatch Item' => 'Dispatch Item','Dispatch a Product' => 'Dispatch a Product','Item to Dispatch' => 'Item to Dispatch','Warehouse Item is in' => 'Warehouse Item is in','Bin Location' => 'Bin Location','Dispatched To' => 'Dispatched To','Dispatched Amount' => 'Dispatched Amount','Remarks' => 'Remarks','Dispatch' => 'Dispatch',];

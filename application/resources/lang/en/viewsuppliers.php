@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'en','View All Suppliers' => 'View All Suppliers','Supplier Name' => 'Supplier Name','Email' => 'Email','Phone' => 'Phone','Total Amount' => 'Total Amount','Suppliers' => 'Suppliers','restocks' => 'Restocks',];

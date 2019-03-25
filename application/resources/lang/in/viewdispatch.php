@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','View Dispatch' => 'Lihat Dispatch','Dispatch Information' => 'Informasi pengiriman','Mark As Defective' => 'Mark Sebagai Cacat','Product Name' => 'nama Produk','Dispatched To' => 'dikirim Untuk','Dispatched Amount' => 'dikirim Jumlah',];

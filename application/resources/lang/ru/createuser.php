@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'ru','Edit/Create Users' => 'Редактировать / Создать Пользователи','Create User' => 'Создать пользователя','UserName' => 'UserName','Email' => 'Эл. адрес','User Department' => 'Отдел Пользователь','User Role' => 'Роль пользователя','Password' => 'пароль','Upload User Avatar' => 'Загрузить Аватар пользователя','Save User' => 'Сохранить пользователя',];

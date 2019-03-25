@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'en','View Payments' => 'View Payments','Invoice Payments' => 'Invoice Payments','Invoices Paid' => 'Invoices Paid','Invoice Number' => 'Invoice Number','Payment Method' => 'Payment Method','Payment Amount' => 'Payment Amount','Payment Details' => 'Payment Details','Created At' => 'Created At','Actions' => 'Actions','Customer' => 'Customer',];

@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','View All Departments' => 'Bekijk Alle Afdelingen','Departments And Budgets' => 'Afdelingen en budgetten','Department Name' => 'Afdelingsnaam','Limit' => 'Begrenzing','Count' => 'tellen','Sum' => 'Som','Email' => 'E-mail','Start Date' => 'Begin datum','End Date' => 'Einddatum','Department Chart' => 'afdeling Grafiek',];

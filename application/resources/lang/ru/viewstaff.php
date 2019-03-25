@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'ru','Users' => 'пользователей','Staff' => 'Staff','Employee Name' => 'Имя сотрудника','Email' => 'Эл. адрес','Department' => 'отдел','Date Created' => 'Дата создания',];

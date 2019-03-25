@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'ru','Product Categories' => 'Категории продукта','Category Name' => 'Категория Название','Category Description' => 'Категория Описание','Created At' => 'Создан в','Updated At' => 'Обновлено В','Delete' => 'Удалить','Your Product Categories' => 'Ваши категории продуктов','Categories' => 'категории','Products in Category' => 'Продукты в категории',];

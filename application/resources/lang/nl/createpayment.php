@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','Record Payment' => 'Record Payment','Create Payment' => 'Maak Betaling','Invoice Number' => 'Factuurnummer','Payment Amount' => 'Te betalen bedrag','Amount Due' => 'bedrag Due','Payment Method' => 'Betalingsmiddel','Payment Details' => 'Betalings details','Save' => 'Save',];

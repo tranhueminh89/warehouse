@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'en','View Category' => 'View Category','Product Category' => 'Product Category','Restock Date' => 'Restock Date','Amount' => 'Amount','Price' => 'Price','Category' => 'Category',];

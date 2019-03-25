@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'de','View Customers' => 'anzeigen Kunden,','Customers and Their Stats' => 'Kunden und deren Statistik','Company Name' => 'Name der Firma','Customer Type' => 'Kundentyp','Quotes' => 'Zitate','Invoices' => 'Rechnungen','Company Email' => 'Firma E-Mail','Tel' => 'Tel','Actions' => 'Aktionen','Payments' => 'Zahlungen',];

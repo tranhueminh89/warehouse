@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'en','View Bin Locations' => 'View Bin Locations','BinCode' => 'BinCode','Description' => 'Description','Products in Locations' => 'Products in Locations','Disabled' => 'Disabled','Barcode' => 'Barcode','Max Level' => 'Max Level','Max Weight' => 'Max Weight','Actions' => 'Actions','Created At' => 'Created At','Updated At' => 'Updated At',];

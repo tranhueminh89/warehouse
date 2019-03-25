@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'ru','View Customer' => 'Просмотр клиентов','Invoices' => 'Счета-фактуры','Invoice Number' => 'Номер счета','Invoice Amount' => 'Сумма счета-фактуры','View Invoice' => 'Посмотреть счет','Quotes' => 'Цитаты','Order Number' => 'Номер заказа','Invoice Amount' => 'Сумма счета-фактуры','View Invoice' => 'Посмотреть счет',];

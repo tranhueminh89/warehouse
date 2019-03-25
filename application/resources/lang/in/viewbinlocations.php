@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','View Bin Locations' => 'Lihat Bin Lokasi','BinCode' => 'BinCode','Description' => 'Deskripsi','Products in Locations' => 'Produk di Lokasi','Disabled' => 'Cacat','Barcode' => 'barcode','Max Level' => 'Max Tingkat','Max Weight' => 'Max Berat','Actions' => 'tindakan','Created At' => 'dibuat Pada','Updated At' => 'Updated Pada',];

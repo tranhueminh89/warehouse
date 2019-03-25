@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'es','Product Name' => 'nombre del producto','Location' => 'Ubicación','Category' => 'Categoría','Serial' => 'De serie','Unit Cost' => 'Costo unitario','Total Cost' => 'Coste total','Amount' => 'Cantidad','Reorder Amount' => 'Reordenar Monto','Stock Items' => 'stockItems','Products' => 'productos',];

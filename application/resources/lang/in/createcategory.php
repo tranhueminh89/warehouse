@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','Create Category' => 'Buat Kategori','Create/Edit Category' => 'Buat / Edit Category','Category Name' => 'Nama kategori','Category Description' => 'Kategori Deskripsi','Submit' => 'Menyerahkan',];

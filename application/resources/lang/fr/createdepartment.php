@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'fr','Add A Department' => 'Ajouter un d&#233;partement','Department Name' => 'Nom du d&#233;partement','Budget Limit' => 'Limite du budget','Department Email' => 'D&#233;partement Email','Budget Start Date' => 'Budget Date de d&#233;but','Budget End Date' => 'Budget Date de fin','Save Department' => 'Enregistrer D&#233;partement',];

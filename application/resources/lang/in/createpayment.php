@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','Record Payment' => 'Rekam Pembayaran','Create Payment' => 'Buat Pembayaran','Invoice Number' => 'Nomor faktur','Payment Amount' => 'Jumlah pembayaran','Amount Due' => 'jumlah Karena','Payment Method' => 'Metode pembayaran','Payment Details' => 'Rincian Pembayaran','Save' => 'Menyimpan',];

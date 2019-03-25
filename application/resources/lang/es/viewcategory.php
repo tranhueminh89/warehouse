@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'es','View Category' => 'Ver Categoría','Product Category' => 'categoria de producto','Restock Date' => 'Fecha reabastecer','Amount' => 'Cantidad','Price' => 'Precio','Category' => 'Categoría',];

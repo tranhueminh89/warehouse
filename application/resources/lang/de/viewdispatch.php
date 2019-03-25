@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'de','View Dispatch' => 'Ansicht Versand','Dispatch Information' => 'Versandinformation','Mark As Defective' => 'Mark als defekt','Product Name' => 'Produktname','Dispatched To' => 'Wird ausgelöst, um','Dispatched Amount' => 'Versand Menge',];

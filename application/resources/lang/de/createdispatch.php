@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'de','Dispatch Item' => 'Versand Artikel','Dispatch a Product' => 'Versand Produkt weiterempfehlen','Item to Dispatch' => 'Artikel Dispatch','Warehouse Item is in' => 'Lagerartikel ist in','Bin Location' => 'Bin Ort','Dispatched To' => 'Wird ausgelöst, um','Dispatched Amount' => 'Versand Menge','Remarks' => 'Bemerkungen','Dispatch' => 'Versand',];

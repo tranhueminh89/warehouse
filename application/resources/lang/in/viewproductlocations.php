@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','Warehouse Locations' => 'Lokasi gudang','View Products in Warehouse' => 'Lihat Produk di Gudang','Product Name' => 'nama Produk','Product Warehouse' => 'Gudang produk','Bin Location' => 'bin Lokasi','Quantity' => 'Kuantitas','Created A' => 'dibuat A','Updated At' => 'Updated Pada',];

@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'de','Create Bin Location' => 'Erstellen Bin Ort','Add A Storage Location' => 'In einem Lagerort','Warehouse' => 'Warenhaus','Storage Location Name' => 'Lagerung Ort Name','Storage Location Description' => 'Lagerort Beschreibung','Barcode' => 'Strichcode','Bin Max Level' => 'Bin Max Stufe','Bin Max Weight' => 'Bin Max Gewicht','Save' => 'sparen',];

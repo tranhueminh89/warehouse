@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'ru','Edit/Create Users' => 'Редактировать / Создать Пользователи','Save User' => 'Сохранить пользователя','User Department' => 'Отдел Пользователь','Password' => 'пароль','Email' => 'Эл. адрес','Staff Name' => 'Персонал Имя','Create Staff' => 'Создать персонал',];

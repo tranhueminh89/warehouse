@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'es','View Customer' => 'Ver cliente','Invoices' => 'Facturas','Invoice Number' => 'Número de factura','Invoice Amount' => 'Importe de la factura','View Invoice' => 'Mirar la factura','Quotes' => 'Citas','Order Number' => 'Número de orden','Invoice Amount' => 'Importe de la factura','View Invoice' => 'Mirar la factura',];

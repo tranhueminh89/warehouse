@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','View Bin Locations' => 'Bekijk Bin Locaties','BinCode' => 'BinCode','Description' => 'Beschrijving','Products in Locations' => 'Producten in Locaties','Disabled' => 'invalide','Barcode' => 'Barcode','Max Level' => 'Max Level','Max Weight' => 'Max gewicht','Actions' => 'acties','Created At' => 'Gemaakt bij','Updated At' => 'update',];

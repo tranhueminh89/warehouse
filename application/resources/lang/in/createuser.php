@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','Edit/Create Users' => 'Mengedit / Buat Pengguna','Create User' => 'Buat pengguna','UserName' => 'Nama pengguna','Email' => 'E-mail','User Department' => 'Departemen pengguna','User Role' => 'Peran pengguna','Password' => 'Kata sandi','Upload User Avatar' => 'Upload Pengguna Avatar','Save User' => 'Simpan Pengguna',];

@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'en','Warehouse Locations' => 'Warehouse Locations','View Products in Warehouse' => 'View Products in Warehouse','Product Name' => 'Product Name','Product Warehouse' => 'Product Warehouse','Bin Location' => 'Bin Location','Quantity' => 'Quantity','Created A' => 'Created A','Updated At' => 'Updated At',];

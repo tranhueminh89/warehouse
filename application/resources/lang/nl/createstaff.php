@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','Edit/Create Users' => 'Edit / Create Gebruikers','Save User' => 'Save User','User Department' => 'gebruiker Department','Password' => 'Wachtwoord','Email' => 'E-mail','Staff Name' => 'medewerkers Naam','Create Staff' => 'Maak Personeel',];

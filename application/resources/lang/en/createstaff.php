@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'en','Edit/Create Users' => 'Edit/Create Users','Save User' => 'Save User','User Department' => 'User Department','Password' => 'Password','Email' => 'Email','Staff Name' => 'Staff Name','Create Staff' => 'Create Staff',];

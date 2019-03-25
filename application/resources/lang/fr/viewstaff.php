@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'fr','Users' => 'Utilisateurs','Staff' => 'Staff','Employee Name' => 'Nom de l&#39;employ&#233;','Email' => 'Email','Department' => 'D&#233;partement','Date Created' => 'date de cr&#233;ation',];

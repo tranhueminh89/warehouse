@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'ru','Warehouse Locations' => 'Склад Местоположение','View Products in Warehouse' => 'Просмотреть товары на складе','Product Name' => 'наименование товара','Product Warehouse' => 'Склад товаров','Bin Location' => 'Bin Расположение','Quantity' => 'Количество','Created A' => 'Создано','Updated At' => 'Обновлено В',];

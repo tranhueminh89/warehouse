@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','Dispatch Item' => 'dispatch Barang','Dispatch a Product' => 'Mengirimkan sebuah Produk','Item to Dispatch' => 'Item untuk Dispatch','Warehouse Item is in' => 'Gudang Barang yang','Bin Location' => 'bin Lokasi','Dispatched To' => 'dikirim Untuk','Dispatched Amount' => 'dikirim Jumlah','Remarks' => 'Keterangan','Dispatch' => 'Pengiriman',];

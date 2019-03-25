@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'es','View Supplier' => 'surtidor de la visión','Product Name' => 'nombre del producto','Restock Date' => 'Fecha reabastecer','Amount' => 'Cantidad','Price' => 'Precio','Delivery Time' => 'El tiempo de entrega','LPO Number' => 'Número LPO','LPO Date' => 'LPO Fecha','Delivered' => 'Entregado','Delivery Time' => 'El tiempo de entrega',];

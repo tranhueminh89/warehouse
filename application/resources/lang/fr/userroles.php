@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'fr','User Roles' => 'R&#244;les de l&#39;utilisateur','Name' => 'pr&#233;nom','Description' => 'La description','Date Created' => 'date de cr&#233;ation','Date Updated' => 'Date &#224; jour',];

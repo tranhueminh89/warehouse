@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','View Category' => 'Lihat Kategori','Product Category' => 'Kategori Produk','Restock Date' => 'memperlengkapi Tanggal','Amount' => 'Jumlah','Price' => 'Harga','Category' => 'Kategori',];

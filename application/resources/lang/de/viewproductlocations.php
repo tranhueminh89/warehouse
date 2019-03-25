@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'de','Warehouse Locations' => 'Lagerstandorte','View Products in Warehouse' => 'Sehen Sie Produkte im Lager','Product Name' => 'Produktname','Product Warehouse' => 'Produktlager','Bin Location' => 'Bin Ort','Quantity' => 'Menge','Created A' => 'Erstellt A','Updated At' => 'Aktualisiert',];

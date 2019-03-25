@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','View Payments' => 'Bekijk Payments','Invoice Payments' => 'factuur betalingen','Invoices Paid' => 'facturen Betaald','Invoice Number' => 'Factuurnummer','Payment Method' => 'Betalingsmiddel','Payment Amount' => 'Te betalen bedrag','Payment Details' => 'Betalings details','Created At' => 'Gemaakt bij','Actions' => 'acties','Customer' => 'Klant',];

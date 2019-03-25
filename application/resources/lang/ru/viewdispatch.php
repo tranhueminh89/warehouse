@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'ru','View Dispatch' => 'Просмотр диспетчерское','Dispatch Information' => 'Отправка информации','Mark As Defective' => 'Отметить как дефектный','Product Name' => 'наименование товара','Dispatched To' => 'Отправляется Для','Dispatched Amount' => 'Отправляется Сумма',];

@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','Warehouse Locations' => 'Warehouse Locaties','View Products in Warehouse' => 'Producten bekijken in Pakhuis','Product Name' => 'productnaam','Product Warehouse' => 'product Magazijn','Bin Location' => 'bin Locatie','Quantity' => 'Hoeveelheid','Created A' => 'Gemaakt A','Updated At' => 'update',];

@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','View Supplier' => 'Bekijk Leverancier','Product Name' => 'productnaam','Restock Date' => 'bijvullen Date','Amount' => 'Bedrag','Price' => 'Prijs','Delivery Time' => 'Tijd om te bezorgen','LPO Number' => 'LPO Number','LPO Date' => 'LPO Date','Delivered' => 'geleverd','Delivery Time' => 'Tijd om te bezorgen',];

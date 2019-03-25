@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','View Dispatch' => 'Bekijk Dispatch','Dispatch Information' => 'Dispatch Informatie','Mark As Defective' => 'Mark als defect','Product Name' => 'productnaam','Dispatched To' => 'verzonden To','Dispatched Amount' => 'verzonden Bedrag',];

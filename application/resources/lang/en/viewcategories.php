@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'en','Product Categories' => 'Product Categories','Category Name' => 'Category Name','Category Description' => 'Category Description','Created At' => 'Created At','Updated At' => 'Updated At','Delete' => 'Delete','Your Product Categories' => 'Your Product Categories','Categories' => 'Categories','Products in Category' => 'Products in Category',];

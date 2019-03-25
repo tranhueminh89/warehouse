@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'de','Add A Department' => 'In einer Abteilung','Department Name' => 'Abteilungsname','Budget Limit' => 'Budget Begrenzung','Department Email' => 'Abteilung E-Mail','Budget Start Date' => 'Budget Startdatum','Budget End Date' => 'Budget Enddatum','Save Department' => 'Speichern Abteilung',];

@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'pt','Edit/Create Users' => 'Editar / Criar usu&#225;rios','Create User' => 'Criar usu&#225;rio','UserName' => 'UserName','Email' => 'O email','User Department' => 'Departamento de usu&#225;rio','User Role' => 'Fun&#231;&#227;o do usu&#225;rio','Password' => 'Senha','Upload User Avatar' => 'Carregar User Avatar','Save User' => 'Salvar Usu&#225;rio',];

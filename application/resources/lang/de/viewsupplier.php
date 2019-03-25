@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'de','View Supplier' => 'Anbieter','Product Name' => 'Produktname','Restock Date' => 'restock Datum','Amount' => 'Menge','Price' => 'Preis','Delivery Time' => 'Lieferzeit','LPO Number' => 'LPO Anzahl','LPO Date' => 'LPO Datum','Delivered' => 'Lieferung','Delivery Time' => 'Lieferzeit',];

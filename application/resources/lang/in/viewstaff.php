@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','Users' => 'pengguna','Staff' => 'Staff','Employee Name' => 'nama karyawan','Email' => 'E-mail','Department' => 'Departemen','Date Created' => 'Tanggal Diciptakan',];

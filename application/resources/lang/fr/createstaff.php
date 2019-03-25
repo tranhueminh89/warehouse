@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'fr','Edit/Create Users' => 'Modifier / cr&#233;er des utilisateurs','Save User' => 'Enregistrer l&#39;utilisateur','User Department' => 'D&#233;partement de l&#39;utilisateur','Password' => 'Mot de passe','Email' => 'Email','Staff Name' => 'Nom du personnel','Create Staff' => 'Cr&#233;er personnel',];

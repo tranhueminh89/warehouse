@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','View All Departments' => 'Lihat Semua Departemen','Departments And Budgets' => 'Departemen Dan Anggaran','Department Name' => 'nama departemen','Limit' => 'Membatasi','Count' => 'Menghitung','Sum' => 'Jumlah','Email' => 'E-mail','Start Date' => 'Mulai tanggal','End Date' => 'Tanggal akhir','Department Chart' => 'Departemen Bagan',];

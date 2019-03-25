@@ -1,0 +1,33 @@
+
+<?php
+
+return [
+'Manage your Settings' =>'Beheer je instellingen',
+'Company Settings' =>'Bedrijfsinstellingen',
+'Company Name' =>'Bedrijfsnaam',
+'Country' =>'Land',
+'City' =>'Stad',
+'Currency' =>'Valuta',
+'Street' =>'Straat',
+'Phone' =>'Telefoonnummer',
+'Zip Code' =>'Postcode',
+'Company Slogan' =>'Bedrijfsslogan',
+'Default Lpo Tax Ammount' =>'Standaardinstelling hoeveelheid LPO belasting ',
+'Save Company Info' =>'Sla bedrijfsgegevens op',
+'Graphing Colors' =>'Grafiekkleuren',
+'Colour that represents black catridge' =>'Kleur dat zwarte cartridge vertegenwoordigt',
+'Colour that represents cyan Catridge' =>'Kleur dat cyaan cartridge vertegenwoordigt',
+'Colour that represents magenta Catridge' =>'Kleur dat magenta cartridge vertegenwoordigt',
+'Colour that represents yellow Catridge' =>'Kleur dat gele cartridge vertegenwoordigt',
+'Bar Graph Default Color' =>'Standaardinstelling staafgraffiek kleur',
+'Update Graphing Options' =>'Werk grafiek opties bij',
+'Update Application Theme' =>'Werk applicatie thema bij',
+'Your App Theme' =>'Jouw app thema',
+'Notify if Printers are down for more than x hours' =>'Geef waarschuwing als printers voor meer dan x uur defect zijn',
+'hours' =>'uur',
+'Daily Minimum printout for all printers' =>'Dagelijks minimale afdruk voor alle printers',
+'Daily Maximum for all printers' =>'Dagelijks maximum voor alle printers',
+'How many papers are in a ream in your organization?' =>'Hoeveel papieren zitten er in jouw organisatie in een riem?',
+'Update Themes' =>'Werk themas bij',
+'' =>'',
+];

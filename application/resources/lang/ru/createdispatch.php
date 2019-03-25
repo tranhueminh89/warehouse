@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'ru','Dispatch Item' => 'Отправка товара','Dispatch a Product' => 'Направить продукт','Item to Dispatch' => 'Пункт Отправка','Warehouse Item is in' => 'Склад Деталь в','Bin Location' => 'Bin Расположение','Dispatched To' => 'Отправляется Для','Dispatched Amount' => 'Отправляется Сумма','Remarks' => 'замечания','Dispatch' => 'отправка',];

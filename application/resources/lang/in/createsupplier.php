@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'in','Add A Supplier' => 'Tambahkan A Pemasok','Supplier Name' => 'nama pemasok','Supplier Address' => 'pemasok Alamat','Supplier Premise' => 'pemasok Premise','Website' => 'Situs web','Email' => 'E-mail','Phone' => 'Telepon','Remarks' => 'Keterangan','Supplier Discount Percentage' => 'Persentase Diskon pemasok','Save Supplier' => 'Simpan Pemasok',];

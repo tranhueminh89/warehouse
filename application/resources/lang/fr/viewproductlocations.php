@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'fr','Warehouse Locations' => 'entrep&#244;t Emplacements','View Products in Warehouse' => 'Voir les produits en entrep&#244;t','Product Name' => 'Nom du produit','Product Warehouse' => 'Entrep&#244;t de produit','Bin Location' => 'Bin Emplacement','Quantity' => 'Quantit&#233;','Created A' => 'Cr&#233;&#233; A','Updated At' => 'Mise &#224; jour &#224;',];

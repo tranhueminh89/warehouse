@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'nl','Product Categories' => 'productcategorieën','Category Name' => 'categorie naam','Category Description' => 'categorie Omschrijving','Created At' => 'Gemaakt bij','Updated At' => 'update','Delete' => 'Verwijder','Your Product Categories' => 'Uw product categorieën','Categories' => 'Categorieën','Products in Category' => 'Producten in categorie',];

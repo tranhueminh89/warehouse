@@ -1,0 +1,1 @@
+﻿<?php return ['en' => 'ru','View Supplier' => 'Поставщик взгляда','Product Name' => 'наименование товара','Restock Date' => 'Restock Дата','Amount' => 'Количество','Price' => 'Цена','Delivery Time' => 'Срок поставки','LPO Number' => 'ПОЛ Номер','LPO Date' => 'ПОЛ Дата','Delivered' => 'доставлен','Delivery Time' => 'Срок поставки',];
